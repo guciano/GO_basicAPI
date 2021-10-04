@@ -17,4 +17,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: guciano/GO_basicAPI:latest
+        tags: guciano/go-basicapi:latest
